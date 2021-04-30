@@ -22,6 +22,8 @@ function Login() {
         });
     }
 
+    //para las funciones que no tienen return se usa esta parte.
+
     return {
         userExists,
         loadUsers,
